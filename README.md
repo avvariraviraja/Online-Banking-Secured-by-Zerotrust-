@@ -1,15 +1,5 @@
-# Disclaimer
 
-<b> This project should not be modified in any way and used anywhere else without my permission. </b>
-
-<i> Some people have downloaded this project and are using it for phishing purposes after modifying the source code.
-The original project has nothing to do with phishing or any other malicious purpose. Any loss of data or unauthorized access  which happened because of such phishing kits would not be my responsibility as that's not my original code. Strict legal action would be taken if someone is found modifying it and using it for any unethical purpose. </i>
-
-
-# Online-Banking-system
-Online Banking System in PHP & MySQL.         
-
-Screenshots and description: http://hackwhiz.com/2015/02/online-banking-system-php-mysql/ 
+# Online-Banking-system using Zero Trust Network Security Model
 
 The project’s primary goals consist of:
 
@@ -95,6 +85,8 @@ Usage:
 7.visit localhost/banking/staff_login.php (staff login)
 
 Note: The customer passwords are hashed and stored in the database. You will not be able to see it.
-The password is 'rash' for almost all the customers,just in case if you want to login with the pre added customer. 
+password for admin
+admin
+admin123
 
 
